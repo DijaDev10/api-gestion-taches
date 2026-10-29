@@ -1,0 +1,15 @@
+
+{
+  "name": "api-gestion-taches",
+  "version": "1.0.0",
+  "description": "API REST de gestion des tâches avec Node.js, Express et PostgreSQL",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "keywords": ["nodejs", "express", "postgresql", "jwt"],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
